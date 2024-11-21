@@ -20,7 +20,7 @@
 #### GitHub 통계 📊
 # GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&count_private=true&theme=pink)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide=prs&count_private=true&theme=pink)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=pink)
 
 ![GitHub stars](https://img.shields.io/github/stars/username/repository-name?style=for-the-badge&color=pink)
