@@ -20,7 +20,9 @@ You can contact me at the following number to collaborate **Phone: +82 123 456 7
 #### 🌱Projects
 **-UI/UX Design Project**  
   [![UI/UX Exhibition](https://img.shields.io/badge/UI%2FUX%20Exhibition-000000?style=flat-square&logo=figma&logoColor=white)](https://haapie4576.github.io/haapie4576/)
-: Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
+  [<img src="https://img.shields.io/badge/UI%2FUX%20Exhibition-000000?style=for-the-badge&logo=figma&logoColor=white" width="200" height="200">](https://haapie4576.github.io/haapie4576/)
+
+  : Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
 
 
 
