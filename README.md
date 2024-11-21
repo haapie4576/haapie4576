@@ -3,7 +3,7 @@
 웹 개발 및 데이터 분석을 배우고 있으며, 창작 활동과 기술을 결합한 프로젝트를 진행 중입니다.
 
 ## 기술 스택 💻
-- ![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=white) HTML5- ![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=flat-square&logo=css3&logoColor=white) CSS3
+- ![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=white) HTML5 - ![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=flat-square&logo=css3&logoColor=white) CSS3
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) JavaScript
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
 
