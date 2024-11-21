@@ -36,6 +36,19 @@
     <img src="https://img.icons8.com/fluency/48/000000/aiva.png" alt="AIVA" title="AIVA" />
 </p>
 
+### 기술 스택
+
+<p>
+    <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" title="Python" />
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+    <img src="https://img.icons8.com/fluency/48/000000/html-5.png" alt="HTML" title="HTML" />
+    <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS" title="CSS" />
+    <img src="https://img.icons8.com/fluency/48/000000/photoshop.png" alt="Photoshop" title="Photoshop" />
+    <img src="https://img.icons8.com/fluency/48/000000/illustrator.png" alt="Illustrator" title="Illustrator" />
+    <img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma" title="Figma" />
+    <img src="https://img.icons8.com/fluency/48/000000/aiva.png" alt="AIVA" title="AIVA" />
+</p>
+
 
 
 
