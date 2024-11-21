@@ -33,7 +33,7 @@ You can reach out to me via:
 
 ## 🔥 GitHub Stats
 
-![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
 
 
 
