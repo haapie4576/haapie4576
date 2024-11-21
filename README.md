@@ -1,22 +1,17 @@
 ## 👋 Hi there! I'm YuJin Choi 
 I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
-### 📞 Let's Collaborate
-- 📧 [![Email](https://img.shields.io/badge/Email-haapie4576%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haapie4576@gmail.com)
-- 📱 [![Phone](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=for-the-badge&logo=mobile&logoColor=white)](tel:+82123123456789)
-
-
----
-
 ## 🌱 Projects
-
 ### 🎨 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
 - Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
 
 ---
 
-## 🚀 Tech Stack
+##### 📞 Let's Collaborate
+- 📧 [![Email](https://img.shields.io/badge/Email-haapie4576%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haapie4576@gmail.com)
+- 📱 [![Phone](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=for-the-badge&logo=mobile&logoColor=white)](tel:+82123123456789)
 
+## 🚀 Tech Stack
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
