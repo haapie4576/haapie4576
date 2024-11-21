@@ -18,7 +18,7 @@
 - [이메일](mailto:your.email@example.com)
 
 #### GitHub 통계 📊
-![GitHub stats](https://img.shields.io/github/stars/username/repository-name?style=for-the-badge&color=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&count_private=true&theme=white)
 
 
 
