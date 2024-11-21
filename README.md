@@ -5,20 +5,21 @@
 #### 기술 스택 💻
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white) ![AIVA](https://img.shields.io/badge/-AIVA-00BFFF?style=flat&logo=google&logoColor=white)
 
+### 연락처
 
-#### 프로젝트 🔧  
-#### [프로젝트 이름](GitHub 링크)
-- **기술**: HTML, CSS, JavaScript
-- **설명**: 음악 데이터를 시각화한 웹 애플리케이션입니다. 🎵
+<p>
+    <a href="tel:+1234567890">
+        <img src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone" title="Phone" />
+        +1 (234) 567-890
+    </a>
+</p>
+<p>
+    <a href="mailto:example@email.com">
+        <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" title="Email" />
+        example@email.com
+    </a>
+</p>
 
-#### 연락처 📞
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [이메일](mailto:your.email@example.com)
-
-#### GitHub 통계 📊
-# GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide=prs&count_private=true&theme=pink)
 
 
 
