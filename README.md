@@ -5,9 +5,6 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 [![Phone call](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
 
 ---
-#### 🌱 Projects
-**UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
-Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
 
 #### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,6 +15,10 @@ Redesign of a local business website with a focus on user-centered design princi
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![AIVA](https://img.shields.io/badge/AIVA-000000?style=flat-square&logo=aiva&logoColor=white)
+
+#### 🌱 Projects
+**UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
+Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
 
 #### 🔥 GitHub Stats
 ![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
