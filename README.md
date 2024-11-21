@@ -2,9 +2,6 @@
 #### 👤About me
 I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
-#### 📞Let's Collaborate
-**Phone: +82 123 456 789** here You can contact me at the following number to collaborate 
-
 ---
 
 #### 🚀Tech Stack
@@ -26,7 +23,10 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 #### 🔥 GitHub Stats
 ![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
 
+---
 
+#### 📞Let's Collaborate
+**Phone: +82 123 456 789** here You can contact me at the following number to collaborate 
 
 
 
