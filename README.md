@@ -52,6 +52,19 @@
 </div>
 
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
+    <h3>프로젝트 설명</h3>
+    <p>프로젝트에 대한 설명을 추가하세요.</p>
+  </div>
+  
+  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
+    <h3>기술 스택</h3>
+    <p>기술 스택에 대해 설명하세요.</p>
+  </div>
+</div>
+
+
 
 
 
