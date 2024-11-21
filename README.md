@@ -19,12 +19,6 @@
 ## GitHub 통계 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
-
-여기서 중요한 건 **디자인과 구조적 완성도**에 초점을 맞추되, 개인의 관심사인 음악과 미술을 잘 반영하는 것이에요. README는 단순한 소개만이 아니라, **나를 잘 표현할 수 있는 공간**이기도 하니까요! 😊
-
-질문이 더 있으면 언제든지 물어보세요!
-
 
 
 
