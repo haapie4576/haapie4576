@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your_profile)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:youremail@example.com)
 
+<a href="tel:+1234567890"><i class="fas fa-phone-alt"></i> +123-456-7890</a>
 
 
 
