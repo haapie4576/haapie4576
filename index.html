@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Rain Animation</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background-color: #FF80AB; /* 분홍색 배경 */
+            overflow: hidden;
+        }
+
+        .heart {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+            animation: fall 5s infinite ease-in-out;
+            pointer-events: none;
+        }
+
+        @keyframes fall {
+            0% {
+                top: -30px;
+                left: calc(100% * random());
+            }
+            100% {
+                top: 100%;
+            }
+        }
+
+        .heart:nth-child(odd) {
+            animation-duration: 5s;
+        }
+        .heart:nth-child(even) {
+            animation-duration: 7s;
+        }
+    </style>
+</head>
+<body>
+    <div class="heart" style="animation-delay: 0s;"></div>
+    <div class="heart" style="animation-delay: 1s;"></div>
+    <div class="heart" style="animation-delay: 2s;"></div>
+    <div class="heart" style="animation-delay: 3s;"></div>
+    <div class="heart" style="animation-delay: 4s;"></div>
+
+    <script>
+        function randomPosition() {
+            return Math.random();
+        }
+
+        let hearts = document.querySelectorAll('.heart');
+        hearts.forEach((heart, index) => {
+            heart.style.left = `${randomPosition() * 100}%`;
+        });
+    </script>
+</body>
+</html>
