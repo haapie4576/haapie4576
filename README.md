@@ -1,6 +1,7 @@
 # Hi there, I'm Haapie 👋
 
-Welcome to my GitHub! I'm a passionate student with interests in Front-end Development, UI/UX Design, Music Production, and Visual Effects. I enjoy blending technology with creativity to create engaging experiences. Below, you can find information about my skills, projects, and how to get in touch with me.
+## 🧑‍💻 About Me
+I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
 ---
 
@@ -21,12 +22,6 @@ Welcome to my GitHub! I'm a passionate student with interests in Front-end Devel
 
 ### 🎨 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
 - Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
-
----
-
-## 🧑‍💻 About Me
-
-I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
 ---
 
