@@ -17,7 +17,7 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![AIVA](https://img.shields.io/badge/AIVA-000000?style=flat-square&logo=aiva&logoColor=white)
 
-#### 🌱Projects. You can move in site by click!
+#### 🌱Projects. 
   
   [<img src="https://img.shields.io/badge/UI%2FUX%20-000000?style=for-the-badge&logo=figma&logoColor=white" width="100" height="50">](https://haapie4576.github.io/haapie4576/)
 
