@@ -1,19 +1,81 @@
-### 👋안녕하세요! 
-저는 **음악과 미술**을 좋아하는 개발자입니다. 🎨🎶   
-웹 개발 및 데이터 분석을 배우고 있으며, 창작 활동과 기술을 결합한 프로젝트를 진행 중입니다.
+# Hi there, I'm Haapie 👋
 
+Welcome to my GitHub! I'm a passionate student with interests in Front-end Development, UI/UX Design, Music Production, and Visual Effects. I enjoy blending technology with creativity to create engaging experiences. Below, you can find information about my skills, projects, and how to get in touch with me.
 
-#### 기술 스택 💻
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white) ![AIVA](https://img.shields.io/badge/-AIVA-00BFFF?style=flat&logo=google&logoColor=white)
+---
 
-## Connect with me
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your_profile)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:youremail@example.com)
+## 🚀 Tech Stack
 
-<a href="tel:+1234567890"><i class="fas fa-phone-alt"></i> +123-456-7890</a>
+### 💻 Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🎨 Design Tools
+- ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+- ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🎶 Music Production
+- ![AIVA](https://img.shields.io/badge/AIVA-000000?style=for-the-badge&logo=aiva&logoColor=white)
+
+### 🖥️ Frameworks & Libraries
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🌱 Projects
+
+### 🎥 **Visual Effects Project**: [VFX Studio](https://linktotheproject.com)
+- Created a stunning visual effects sequence using After Effects and Blender. Designed from scratch with a focus on creative storytelling and technical proficiency.
+
+### 🎨 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
+- Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
+
+### 🎶 **Music Composition Project**: [Music Composition](https://linktotheproject.com)
+- Composed a full-length music piece using AIVA, combining classical elements with modern sounds.
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
+
+---
+
+## 📞 Contact
+
+You can reach out to me via:
+- 📧 **Email**: [haapie4576@gmail.com](mailto:haapie4576@gmail.com)
+- 📱 **Phone**: +82 123 456 789
+
+---
+
+## 🔥 GitHub Stats
+
+![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+## 🙋‍♀️ Let's Collaborate!
+
+Feel free to reach out to discuss any project ideas, collaborations, or if you just want to connect. I'm always open to new opportunities and learning experiences.
+
+---
+
+## 🏆 Achievements
+
+- **Winner** of XYZ Design Competition (2023)
+- **First Place** in ABC Coding Challenge (2022)
+
+---
+
+## 💬 Languages
+
+- **Korean**: Native
+- **English**: Fluent
 
 
 
