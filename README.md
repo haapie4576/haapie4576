@@ -8,7 +8,7 @@
 ![AIVA](https://img.shields.io/badge/-AIVA-00BFFF?style=flat&logo=google&logoColor=white)
 
 
-#### 프로젝트 🔧
+#### 프로젝트 🔧  
 #### [프로젝트 이름](GitHub 링크)
 - **기술**: HTML, CSS, JavaScript
 - **설명**: 음악 데이터를 시각화한 웹 애플리케이션입니다. 🎵
