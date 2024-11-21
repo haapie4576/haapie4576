@@ -7,9 +7,6 @@ Redesign of a local business website with a focus on user-centered design princi
 
 ---
 
-#### 📞 Let's Collaborate
-[![Phone call](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
-
 #### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,6 +16,9 @@ Redesign of a local business website with a focus on user-centered design princi
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![AIVA](https://img.shields.io/badge/AIVA-000000?style=flat-square&logo=aiva&logoColor=white)
+
+#### 📞 Let's Collaborate
+[![Phone call](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
 
 ---
 
