@@ -20,7 +20,7 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 #### 🌱Projects
 **-UI/UX Design Project**  : Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
   
-  [<img src="https://img.shields.io/badge/UI%2FUX%20Exhibition-000000?style=for-the-badge&logo=figma&logoColor=white" width="150" height="100">](https://haapie4576.github.io/haapie4576/)
+  [<img src="https://img.shields.io/badge/UI%2FUX%20Exhibition-000000?style=for-the-badge&logo=figma&logoColor=white" width="200" height="100">](https://haapie4576.github.io/haapie4576/)
  
 
 
