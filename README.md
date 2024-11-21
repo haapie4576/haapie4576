@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm YuJin Choi 
 I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
-## 🌱 Projects
-### 🎨 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
+### 🌱 Projects
+🎨 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
 - Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
 
 ---
