@@ -3,16 +3,11 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 
 ---
 
-## 🚀 Tech Stack
+## 📞 Let's Collaborate!
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Design Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🎶 Music Production Tools
-![AIVA](https://img.shields.io/badge/AIVA-000000?style=for-the-badge&logo=aiva&logoColor=white)
+You can reach out to me via:
+- 📧 **Email**: [haapie4576@gmail.com](mailto:haapie4576@gmail.com)
+- 📱 **Phone**: +82 123 456 789
 
 ---
 
@@ -23,11 +18,16 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 
 ---
 
-## 📞 Let's Collaborate!
+## 🚀 Tech Stack
 
-You can reach out to me via:
-- 📧 **Email**: [haapie4576@gmail.com](mailto:haapie4576@gmail.com)
-- 📱 **Phone**: +82 123 456 789
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🎶 Music Production Tools
+![AIVA](https://img.shields.io/badge/AIVA-000000?style=for-the-badge&logo=aiva&logoColor=white)
 
 ---
 
