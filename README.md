@@ -8,10 +8,10 @@ Redesign of a local business website with a focus on user-centered design princi
 ---
 
 #### 📞 Let's Collaborate
-- 📧 [![Email](https://img.shields.io/badge/Email-haapie4576%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haapie4576@gmail.com)
-- 📱 [![Phone](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=for-the-badge&logo=mobile&logoColor=white)](tel:+82123123456789)
+- 📧 [![Email](https://img.shields.io/badge/Email-haapie4576%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:haapie4576@gmail.com)
+- 📱 [![Phone](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
 
-## 🚀 Tech Stack
+#### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,11 +21,9 @@ Redesign of a local business website with a focus on user-centered design princi
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![AIVA](https://img.shields.io/badge/AIVA-000000?style=flat-square&logo=aiva&logoColor=white)
 
-
 ---
 
-## 🔥 GitHub Stats
-
+#### 🔥 GitHub Stats
 ![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
 
 
