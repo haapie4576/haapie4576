@@ -21,6 +21,7 @@ I'm a student passionate about combining **art** and **technology**. I want to c
   
   [<img src="https://img.shields.io/badge/UI%2FUX%20-000000?style=for-the-badge&logo=figma&logoColor=white" width="100" height="50">](https://haapie4576.github.io/haapie4576/) 
   [<img src="https://img.shields.io/badge/UI%2FUX%20Exhibition-000000?style=for-the-badge&logo=figma&logoColor=white" width="100" height="50">](https://haapie4576.github.io/haapie4576/)
+  [<img src="https://img.shields.io/badge/UI%2FUX%20Exhibition-000000?style=for-the-badge&logo=figma&logoColor=white" width="100" height="50">](https://haapie4576.github.io/haapie4576/)
  
 
 #### 🔥 GitHub Stats
