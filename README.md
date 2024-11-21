@@ -1,5 +1,11 @@
-## Hi there 👋
-라라라라 라라 러브송
+## Hi there 👋 나는 한 마디로 이런 사람이예요
+
+신분 :
+관심분야 :
+요즘 하고있는 것 : 
+
+당신이 내게 관심있다면 :
+여기로 연락하세요. 
 
 <!--
 **haapie4576/haapie4576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
