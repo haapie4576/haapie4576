@@ -8,7 +8,6 @@ Redesign of a local business website with a focus on user-centered design princi
 ---
 
 #### 📞 Let's Collaborate
-- 📧 [![Email](https://img.shields.io/badge/Email-haapie4576%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:haapie4576@gmail.com)
 - 📱 [![Phone](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
 
 #### 🚀 Tech Stack
