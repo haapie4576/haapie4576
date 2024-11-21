@@ -6,8 +6,9 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 ## 📞 Let's Collaborate!
 
 You can reach out to me via:
-- 📧 **Email**: [haapie4576@gmail.com](mailto:haapie4576@gmail.com)
-- 📱 **Phone**: +82 123 456 789
+- 📧 [![Email](https://img.shields.io/badge/Email-haapie4576%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haapie4576@gmail.com)
+- 📱 [![Phone](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=for-the-badge&logo=mobile&logoColor=white)](tel:+82123123456789)
+
 
 ---
 
