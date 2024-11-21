@@ -1,12 +1,13 @@
 ## 👋 Hi there! I'm YuJin Choi 
+#### 👤About me
 I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
-#### 📞 Let's Collaborate
+#### 📞Let's Collaborate
 [![Phone call](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
 
 ---
 
-#### 🚀 Tech Stack
+#### 🚀Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -16,7 +17,7 @@ I'm a student passionate about combining **art** and **technology**. I want to c
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![AIVA](https://img.shields.io/badge/AIVA-000000?style=flat-square&logo=aiva&logoColor=white)
 
-#### 🌱 Projects
+#### 🌱Projects
 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
 Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
 
