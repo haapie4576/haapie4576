@@ -17,25 +17,15 @@ Welcome to my GitHub! I'm a passionate student with interests in Front-end Devel
 - ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🎶 Music Production
+### 🎶 Music Production Tools
 - ![AIVA](https://img.shields.io/badge/AIVA-000000?style=for-the-badge&logo=aiva&logoColor=white)
-
-### 🖥️ Frameworks & Libraries
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
 ## 🌱 Projects
 
-### 🎥 **Visual Effects Project**: [VFX Studio](https://linktotheproject.com)
-- Created a stunning visual effects sequence using After Effects and Blender. Designed from scratch with a focus on creative storytelling and technical proficiency.
-
 ### 🎨 **UI/UX Design Project**: [Website Redesign](https://linktotheproject.com)
 - Redesign of a local business website with a focus on user-centered design principles. Delivered a seamless, visually appealing, and functional user interface.
-
-### 🎶 **Music Composition Project**: [Music Composition](https://linktotheproject.com)
-- Composed a full-length music piece using AIVA, combining classical elements with modern sounds.
 
 ---
 
@@ -76,7 +66,6 @@ Feel free to reach out to discuss any project ideas, collaborations, or if you j
 
 - **Korean**: Native
 - **English**: Fluent
-
 
 
 
