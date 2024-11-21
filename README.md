@@ -23,59 +23,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide=prs&count_private=true&theme=pink)
 
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- 1사분면: 프로젝트 설명 -->
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
-    <h3>프로젝트 설명</h3>
-    <p>여기 프로젝트 내용에 대한 설명을 작성하세요.</p>
-  </div>
-
-  <!-- 2사분면: 기술 스택 -->
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
-    <h3>기술 스택</h3>
-    <p>여기 사용한 기술 스택을 나열하세요.</p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <!-- 3사분면: 연락처 -->
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
-    <h3>연락처</h3>
-    <p>연락처 정보나 이메일 주소를 여기에 넣으세요.</p>
-  </div>
-
-  <!-- 4사분면: 깃허브 통계 -->
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
-    <h3>GitHub 통계</h3>
-    <p>여기 GitHub 통계를 삽입하세요. 예: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)</p>
-  </div>
-</div>
-
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
-    <h3>프로젝트 설명</h3>
-    <p>프로젝트에 대한 설명을 추가하세요.</p>
-  </div>
-  
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd;">
-    <h3>기술 스택</h3>
-    <p>기술 스택에 대해 설명하세요.</p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; padding: 20px; border: 1px solid #ddd; background-color: #f9f9f9;">
-    <h3>프로젝트 설명</h3>
-    <p>프로젝트에 대한 간단한 설명을 작성하세요.</p>
-  </div>
-  <div style="flex: 1; padding: 20px; border: 1px solid #ddd; background-color: #f9f9f9;">
-    <h3>기술 스택</h3>
-    <p>사용한 기술 스택을 나열하세요.</p>
-  </div>
-</div>
-
-
 
 
 
