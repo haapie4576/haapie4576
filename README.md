@@ -3,7 +3,7 @@
 I'm a student passionate about combining **art** and **technology**. I want to create **innovative** user interfaces, **dynamic websites**, and **immersive experiences**. I’m currently learning web development and design tools to hone my skills and collaborate with creative people around the world.
 
 #### 📞Let's Collaborate
-[![Phone call](https://img.shields.io/badge/Phone-%2B82%20123%20456%20789-green?style=flat-square&logo=mobile&logoColor=white)](tel:+82123123456789)
+You can contact me at the following number to collaborate **Phone: +82 123 456 789**
 
 ---
 
