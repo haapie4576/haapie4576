@@ -41,7 +41,7 @@ you can visit my work by click !
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=0gi5-mEVEc4">
-       <img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logo=spotify&logoColor=white" width="400" height="400">
+       <img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logo=spotify&logoColor=white" width="200" height="200">
       </a>
     </td>
   </tr>
