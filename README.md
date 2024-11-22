@@ -28,19 +28,8 @@ you can visit my work by click !
 
 #### 🔥GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
+![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
 
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>🔥 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
-    </td>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>🎵 Apple Music Playlist</h3>
-      <a href="https://music.apple.com/us/playlist/your-playlist-name/id/your-playlist-id" target="_blank">Apple Music Playlist</a>
-    </td>
-  </tr>
-</table>
 
 
 <!--
