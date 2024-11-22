@@ -47,6 +47,24 @@ you can visit my work by click !
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><strong>🔥 GitHub Stats</strong></td>
+    <td><strong>✨ Recent Interests</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
+    </td>
+    <td>
+      <a href="https://music.apple.com/us/playlist/your-playlist-name/id/your-playlist-id">
+        <img src="https://img.shields.io/badge/Listen%20on%20Apple%20Music-FF1D48?style=flat&logo=apple&logoColor=white" alt="Apple Music">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
