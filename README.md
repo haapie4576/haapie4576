@@ -41,8 +41,7 @@ you can visit my work by click !
     </td>
     <td>
       <a href="https://music.apple.com/us/playlist/your-playlist-name/id/your-playlist-id">
-       [<img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logo=spotify&logoColor=white" width="200" height="50">](https://your-link-here)
-
+       [<img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logo=spotify&logoColor=white" width="200" height="50">]
       </a>
     </td>
   </tr>
