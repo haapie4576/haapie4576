@@ -47,6 +47,27 @@ you can visit my work by click !
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><strong>🔥 GitHub Stats</strong></td>
+    <td><strong>✨ Recent Interests</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=0gi5-mEVEc4">
+        <img src="https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg" alt="StarDew Valley Style Game Music Composition" width="300">
+      </a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=0gi5-mEVEc4">
+        <img src="https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg" alt="StarDew Valley Style Game Music Composition" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
