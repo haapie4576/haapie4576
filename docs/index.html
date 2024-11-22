@@ -65,6 +65,12 @@
             text-align: center; /* 제목 중앙 정렬 */
         }
 
+        h2 {
+            border: 2px solid black; /* 외곽선을 블랙으로 설정 */
+            padding: 10px; /* 텍스트와 외곽선 사이의 간격 */
+            border-radius: 8px; /* 외곽선의 모서리 둥글게 */
+        }
+
         p {
             line-height: 1.6;
             font-size: 18px;
@@ -120,15 +126,31 @@
             background-color: #c2185b;
         }
 
-        /* 푸터 스타일 - 얇게 설정 */
         footer {
-            background-color: #111111; /* 연분홍색 */
-            color: #ffffff;
-            text-align: center;
-            padding: 5px 0; /* 높이 조절 */
-            bottom: 0;
-            width: 100%;
-        }
+    background-color: #111111; /* 어두운 배경색 */
+    color: white; /* 텍스트 색상 */
+    text-align: center; /* 텍스트 중앙 정렬 */
+    padding: 20px 0; /* 푸터 위아래 여백 */
+    position: relative; /* 고정하지 않음 */
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+}
+
+footer div a {
+    color: #ffb6b6; /* 링크 색상 */
+    text-decoration: none;
+    margin: 0 10px; /* 링크 사이의 여백 */
+}
+
+footer div a:hover {
+    color: #c2185b; /* 링크에 마우스 오버시 색상 변경 */
+}
+
     </style>
 </head>
 
@@ -141,12 +163,14 @@
 
     <!-- 헤더 -->
     <header>
-        <h1>Flower Station
+        <h1>"Flower Station"
             <br>(플라워 스테이션)</h1>
     </header>
 
         <!-- 영어 섹션 -->
         <section id="en-section">
+            <h2>Project</h2>
+            <br>
             <h1>Project Introduction</h1>
             <p>This project aims to bring healing by placing natural elements in cold, urban spaces like subway stations.<br>
                 Through an app connected to a smart farm located in a subway station, you can grow your own flower and even gift it to a loved one!<br>
@@ -169,32 +193,42 @@
             <br>
             <br>
             <br>
+            <br>
 
             <h2>What I Did</h2>
+            <br>
             <h3>UI/UX Design</h3>
             <div class="image-single">
                 <img src="DESIGN.png" alt="단일 프로젝트 이미지">
             </div>
+           
             
             <h3>Flowchart</h3>
             <div class="image-single">
                 <img src="FLOW.png" alt="단일 프로젝트 이미지">
             </div>
             
+            
             <h3>Planning</h3>
             <div class="image-single">
                 <img src="READ.png" alt="단일 프로젝트 이미지">
             </div>
-
+            
+            <br><br><br>
             <div class="button-container">
                 <a href="https://github.com/haapie4576" class="button">Go back to GitHub</a>
             </div>
+            
 
         </section>
         
         
         <!-- 한국어 섹션 -->
         <section id="kr-section">
+
+            <h2>프로젝트</h2>
+            <br>
+
             <h1>프로젝트 소개</h1>
             <p>이 프로젝트는 지하철과 같은 삭막한 도심 공간에 자연의 이미지를 배치해 <br>
                 힐링을 전하는 것을 목표로 하는 어플리케이션입니다.<br>
@@ -218,27 +252,38 @@
             이런 사회에 대한 걱정어린 시선과 저항을 보여주고자 했습니다.
         </p>
 
+        <br>
+        <br>
+        <br>
+        <br>
+
         <h2>맡은 일</h2>
         <h3>UI/UX 디자인 보드</h3>
         <div class="image-single">
             <img src="DESIGN.png" alt="단일 프로젝트 이미지">
         </div>
         
+        
         <h3>플로우 차트</h3>
         <div class="image-single">
             <img src="FLOW.png" alt="단일 프로젝트 이미지">
         </div>
         
+        
         <h3>기획</h3>
         <div class="image-single">
             <img src="READ.png" alt="단일 프로젝트 이미지">
         </div>
+       
 
+        <br>
+        <br>
+        <br>
         <div class="button-container">
             <a href="https://github.com/haapie4576" class="button">깃허브로 돌아가기</a>
         </div>
 
-
+        
 
 
         <!-- <h2>프로젝트 이미지</h2>
