@@ -8,6 +8,9 @@
 #### 📞Let's Collaborate with me
 **Phone: +82 123 456 789**   
 
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaapie4576&count_bg=%23FFBDB1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+</p>
 
 <hr>
 
