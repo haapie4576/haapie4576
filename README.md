@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm YuJin Choi
+ ## 👋 Hi there! I'm YuJin Choi
 #### ❣️About me
 - ✨ I’m interested in : ...
 - 🌱 I’m currently learning : ...
@@ -25,12 +25,6 @@
 you can visit my work by click !
 
   [<img src="https://img.shields.io/badge/flower%20%20stationtion-000000?style=for-the-badge&logo=figma&logoColor=white" width="200" height="50">](https://haapie4576.github.io/haapie4576/)
-
-#### 🔥GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
-  ![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haapie4576.yourrepo)
 
 #### 🔥 GitHub Stats
 ![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
