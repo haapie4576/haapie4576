@@ -1,11 +1,11 @@
  ## 👋 Hi there! I'm YuJin Choi
 #### ❣️About me
-- 😊I'm : ...
-- ✨ I’m interested in : ...
-- 🌱 I’m currently learning : ...
-- 👯 I’m looking for help with : ...
-- ⚡ Fun fact: ...
-
+- 😊 I'm : A person who wants to implement unreal technologies that provide fantastic experiences to users, such as beautiful visuals and wondrous music.
+- ✨ I’m interested in : UI/UX design, music composition, visual effects, front-end development
+- 🌱 I’m currently learning : Unity, music composition
+- 👯 I’m looking for help with : Digital composition and game music
+- ⚡ Fun fact: love pretty things and delicious food.
+- 
 #### 📞Let's Collaborate with me
 - **Phone: +82 123 456 789**   
 
