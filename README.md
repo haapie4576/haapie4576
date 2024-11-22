@@ -36,8 +36,8 @@ you can visit my work by click !
 
 <table>
   <tr>
-    <td><strong>####🔥GitHub Stats</strong></td>
-    <td><strong>#### Music</strong></td>
+    <td><strong>🔥GitHub Stats</strong></td>
+    <td><strong>✨Current Interests</strong></td>
   </tr>
   <tr>
     <td>
