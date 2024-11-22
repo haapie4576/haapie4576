@@ -34,7 +34,7 @@ you can visit my work by click !
 #### 🔥 GitHub Stats
 ![Haapie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink)
 
-
+[Apple Music Playlist](https://music.apple.com/us/playlist/your-playlist-name/id/your-playlist-id)
 
 <!--
 **haapie4576/haapie4576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
