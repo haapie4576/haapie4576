@@ -1,116 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
+    <title>프로젝트 설명</title>
     <style>
-        /* 전체 페이지 스타일 */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
+            line-height: 1.6;
             background-color: #f4f4f9;
-        }
-
-        /* 그리드 레이아웃 스타일 */
-        .container {
-            display: grid;
-            grid-template-columns: 1fr 1fr; /* 가로 2칸 */
-            grid-template-rows: 1fr 1fr; /* 세로 2칸 */
-            gap: 20px;
-            width: 80%;
-            height: 80%;
-            grid-template-areas: 
-                "top-left top-right"
-                "bottom-left bottom-right";
-        }
-
-        /* 각 구역 스타일 */
-        .top-left {
-            grid-area: top-left;
-            background-color: #f5f5f5;
-            padding: 20px;
-            border-radius: 8px;
-        }
-
-        .top-right {
-            grid-area: top-right;
-            background-color: #f5f5f5;
-            padding: 20px;
-            border-radius: 8px;
-        }
-
-        .bottom-left {
-            grid-area: bottom-left;
-            background-color: #f5f5f5;
-            padding: 20px;
-            border-radius: 8px;
-        }
-
-        .bottom-right {
-            grid-area: bottom-right;
-            background-color: #f5f5f5;
-            padding: 20px;
-            border-radius: 8px;
-        }
-
-        /* 제목 스타일 */
-        h2 {
-            margin-top: 0;
             color: #333;
         }
-
-        /* 링크 스타일 */
-        a {
-            color: #ff4f81;
-            text-decoration: none;
+        header {
+            background: #6c63ff;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
         }
-
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .button-container {
+            text-align: center;
+        }
+        .button {
+            text-decoration: none;
+            background: #6c63ff;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+        .button:hover {
+            background: #5348c5;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- 1사분면: 프로젝트 설명 -->
-        <div class="top-left">
-            <h2>Project Overview</h2>
-            <p>This section contains information about your projects. Describe your main projects, what you worked on, and the outcomes.</p>
+    <header>
+        <h1>프로젝트 제목</h1>
+    </header>
+    <section>
+        <h2>프로젝트 개요</h2>
+        <p>이 프로젝트는 사용자 경험과 인터페이스를 개선하기 위해 설계되었습니다. 주요 목표는 시각적 일관성과 사용성을 높이는 것입니다.</p>
+        <h2>사용 기술</h2>
+        <p>HTML, CSS, JavaScript, Figma</p>
+        <h2>주요 기능</h2>
+        <ul>
+            <li>반응형 웹디자인</li>
+            <li>간편한 내비게이션</li>
+            <li>직관적인 사용자 인터페이스</li>
+        </ul>
+        <h2>프로젝트 미리보기</h2>
+        <img src="project-preview.jpg" alt="프로젝트 미리보기">
+        <div class="button-container">
+            <a href="https://your-project-link.com" class="button" target="_blank">프로젝트 보기</a>
         </div>
-
-        <!-- 2사분면: 기술 스택 -->
-        <div class="top-right">
-            <h2>Tech Stack</h2>
-            <ul>
-                <li>Python</li>
-                <li>HTML/CSS</li>
-                <li>Photoshop</li>
-                <li>Illustrator</li>
-                <li>AIVA</li>
-            </ul>
-        </div>
-
-        <!-- 3사분면: 연락처 -->
-        <div class="bottom-left">
-            <h2>Contact</h2>
-            <p>Feel free to reach out to me via:</p>
-            <ul>
-                <li><a href="mailto:your-email@example.com">Email</a></li>
-                <li><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></li>
-                <li><a href="https://github.com/your-username">GitHub</a></li>
-            </ul>
-        </div>
-
-        <!-- 4사분면: 깃허브 통계 -->
-        <div class="bottom-right">
-            <h2>GitHub Stats</h2>
-            <p>Here are my GitHub statistics:</p>
-            <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&count_private=true&theme=pink" alt="GitHub Stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=pink" alt="Top Languages">
-        </div>
-    </div>
+    </section>
 </body>
 </html>
+
