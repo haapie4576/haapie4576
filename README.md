@@ -40,8 +40,8 @@ you can visit my work by click !
       <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
     </td>
     <td>
-      <a href="https://music.apple.com/us/playlist/your-playlist-name/id/your-playlist-id">
-       [<img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logo=spotify&logoColor=white" width="200" height="50">]
+      <a href="https://www.youtube.com/watch?v=0gi5-mEVEc4">
+       <img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logo=spotify&logoColor=white" width="200" height="50">
       </a>
     </td>
   </tr>
