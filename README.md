@@ -9,6 +9,7 @@
 
    
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+![Total Visitors](https://visitor-badge.laobi.icu/total?path=yourusername.yourrepo)
 ---
 
 #### 🚀Tech Stack
