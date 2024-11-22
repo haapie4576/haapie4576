@@ -47,6 +47,11 @@ you can visit my work by click !
   </tr>
 </table>
 
+[![스타듀밸리 스타일 게임 음악 작곡](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<a href="https://www.youtube.com/watch?v=VIDEO_ID">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="스타듀밸리 스타일 게임 음악 작곡" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</a>
+
 
 
 
