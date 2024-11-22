@@ -33,7 +33,8 @@ you can visit my work by click !
 <table>
   <tr>
     <td><strong>🔥 GitHub Stats</strong></td>
-    <td><strong>✨ Recent Interests</strong></td>
+    <td><strong>✨ Recent Interests</strong>
+    Stardew Valley Style Game Music Composition</td>
   </tr>
   <tr>
     <td>
