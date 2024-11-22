@@ -3,79 +3,253 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>프로젝트 설명</title>
+    <title>포트폴리오</title>
     <style>
+        /* 기본 스타일 설정 */
         body {
             font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
             margin: 0;
             padding: 0;
-            line-height: 1.6;
-            background-color: #f4f4f9;
-            color: #333;
         }
-        header {
-            background: #6c63ff;
-            color: #fff;
-            padding: 20px 0;
+
+        /* 네비게이션 바 스타일 */
+        nav {
+            background-color: #111111; /* 헤더 색상 */
+            color: #ffffff;
+            padding: 10px 0;
             text-align: center;
         }
+
+        nav a {
+            color: #ffffff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* 헤더 스타일 - 얇게 설정 */
+        header {
+            background-color: #111111; /* 연분홍색 */
+            color: #ffffff;
+            text-align: center;
+            padding: 30px 0; /* 높이 조절 */
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+            letter-spacing: 1px;
+        }
+
+        /* 섹션 스타일 */
         section {
-            max-width: 800px;
-            margin: 20px auto;
-            background: #fff;
+            margin: 40px auto;
+            max-width: 900px;
             padding: 20px;
+            background-color: #f9f9f9;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
+
+        /* 포트폴리오 설명 스타일 */
+        h2, h3 {
+            font-size: 28px;
+            color: #111111; /* 핑크색 포인트 */
+            margin-bottom: 20px;
+            text-align: center; /* 제목 중앙 정렬 */
         }
-        h1, h2 {
-            margin-bottom: 10px;
-        }
+
         p {
-            margin-bottom: 15px;
+            line-height: 1.6;
+            font-size: 18px;
+            margin-bottom: 20px;
         }
-        .button-container {
-            text-align: center;
+
+        /* 사진을 한 줄에 3개 배치할 div 스타일 */
+        .image-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
         }
+
+        .image-row img {
+            width: 30%;
+            height: auto;
+            border-radius: 12px; /* 사진 외곽선 곡선 추가 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 사진에 그림자 추가 */
+        }
+
+        /* 사진을 한 줄에 하나 넣는 div 스타일 */
+        .image-single {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px; /* 사진 간격 */
+        }
+
+        .image-single img {
+            width: 80%;
+            height: auto;
+            border-radius: 12px; /* 사진 외곽선 곡선 추가 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 사진에 그림자 추가 */
+        }
+
+        /* 버튼 스타일 */
         .button {
-            text-decoration: none;
-            background: #6c63ff;
-            color: #fff;
-            padding: 10px 20px;
+            display: inline-block;
+            background-color: #ffb6b6;
+            color: #111111;
+            padding: 12px 20px;
             border-radius: 5px;
+            text-decoration: none;
             font-size: 16px;
-            transition: background 0.3s;
+            transition: background-color 0.3s;
+            margin: 0 auto;
         }
+
+        .button-container {
+            text-align: center;  /* 버튼을 중앙에 배치 */
+        }
+
         .button:hover {
-            background: #5348c5;
+            background-color: #c2185b;
+        }
+
+        /* 푸터 스타일 - 얇게 설정 */
+        footer {
+            background-color: #111111; /* 연분홍색 */
+            color: #ffffff;
+            text-align: center;
+            padding: 5px 0; /* 높이 조절 */
+            bottom: 0;
+            width: 100%;
         }
     </style>
 </head>
-<body>
-    <header>
-        <h1>프로젝트 제목</h1>
-    </header>
-    <section>
-        <h2>프로젝트 개요</h2>
-        <p>이 프로젝트는 사용자 경험과 인터페이스를 개선하기 위해 설계되었습니다. 주요 목표는 시각적 일관성과 사용성을 높이는 것입니다.</p>
-        <h2>사용 기술</h2>
-        <p>HTML, CSS, JavaScript, Figma</p>
-        <h2>주요 기능</h2>
-        <ul>
-            <li>반응형 웹디자인</li>
-            <li>간편한 내비게이션</li>
-            <li>직관적인 사용자 인터페이스</li>
-        </ul>
-        <h2>프로젝트 미리보기</h2>
-        <img src="project-preview.jpg" alt="프로젝트 미리보기">
-        <div class="button-container">
-            <a href="https://your-project-link.com" class="button" target="_blank">프로젝트 보기</a>
-        </div>
-    </section>
-</body>
-</html>
 
+<body>
+    <!-- 네비게이션 바 -->
+    <nav>
+        <a href="#en-section">English</a>
+        <a href="#kr-section">한국어</a>
+    </nav>
+
+    <!-- 헤더 -->
+    <header>
+        <h1>Flower Station
+            <br>(플라워 스테이션)</h1>
+    </header>
+
+        <!-- 영어 섹션 -->
+        <section id="en-section">
+            <h1>Project Introduction</h1>
+            <p>This project aims to bring healing by placing natural elements in cold, urban spaces like subway stations.<br>
+                Through an app connected to a smart farm located in a subway station, you can grow your own flower and even gift it to a loved one!<br>
+                Watering, adding nutrients, and putting time and care into your flower will help you express your feelings.<br>
+                Experience healing as you see the small smart farm representing love amidst the harshness of the subway!
+            </p>
+
+            <h1>Project Details</h1>
+            <p>In this application, you can grow your very own flower.
+                 You begin by launching the app and selecting the flower you want to grow, along with its difficulty level.
+                  You’ll be able to view live footage of your flower’s status, sent from the smart farm, and you'll need to water it, give it nutrients, 
+                  and take care of it at the right times and intervals. Over a period ranging from a month to a year, you will pour your heart into taking care of a single flower.
+                  The reason we chose to install smart farms in subway stations is because, despite the physical proximity of people in these crowded spaces, 
+                  there is often a deep emotional distance—people hardly speak to each other. We believe that the subway, 
+                  as a space that reflects the emotional coldness of modern society, is the perfect location to raise awareness. 
+                  Through small smart farms in these spaces, we aim to present a message of love and human connection, 
+                  offering a counterpoint to the emotional isolation present in today's world.
+            </p>
+
+            <br>
+            <br>
+            <br>
+
+            <h2>What I Did</h2>
+            <h3>UI/UX Design</h3>
+            <div class="image-single">
+                <img src="DESIGN.png" alt="단일 프로젝트 이미지">
+            </div>
+            
+            <h3>Flowchart</h3>
+            <div class="image-single">
+                <img src="FLOW.png" alt="단일 프로젝트 이미지">
+            </div>
+            
+            <h3>Planning</h3>
+            <div class="image-single">
+                <img src="READ.png" alt="단일 프로젝트 이미지">
+            </div>
+
+            <div class="button-container">
+                <a href="https://github.com/haapie4576" class="button">Go back to GitHub</a>
+            </div>
+
+        </section>
+        
+        
+        <!-- 한국어 섹션 -->
+        <section id="kr-section">
+            <h1>프로젝트 소개</h1>
+            <p>이 프로젝트는 지하철과 같은 삭막한 도심 공간에 자연의 이미지를 배치해 <br>
+                힐링을 전하는 것을 목표로 하는 어플리케이션입니다.<br>
+                당신은 지하철 역에 위치하는 스마트 팜과 원격으로 연결된 어플리케이션을 통해, <br>
+                직접 자신만의 꽃 한 송이를 기를 수 있고, 이를 사랑하는 이에게 선물할 수 있습니다!<br>
+            제때 물을 주고, 영양제를 주고, 오랜 시간과 정성을 들여 당신의 마음을 담아보세요!<br>
+            그리고 삭막한 지하철 속 사랑 그 자체를 시사하며 자리하는 작은 스마트 팜을 보며 힐링을 얻어가세요!
+        </p>
+
+        <h1>프로젝트 내용</h1>
+        <p>이 어플리케이션에서 당신은 직접 당신만의 꽃 한 송이를 기를 수 있습니다.
+            당신은 어플리케이션을 실행하고, 기르고싶은 꽃, 난이도 등을 설정합니다.
+            스마트팜에서 보내주는 영상을 통해 실시간으로 당신의 꽃 상태를 볼 수 있으며,
+            당신은 정확한 시간과 간격을 맞추어 꽃에게 물을 줘야하고, 영양제를 주고, 보살펴야 합니다.
+            적게는 한 달에서 1년까지 걸리는 이 시간 동안, 당신은 꽃 한 송이에 당신의 마음을 담을 수 있습니다.
+            우리가 지하철 역에 스마트팜을 설치하기로 한 이유는,
+            사람이 너무 많아 서로의 물리적 거리는 가깝지만, 
+            서로 한 마디도 나누지 않는 깊은 정서적 거리감을 보이는 지하철이,
+            우리 사회의 삭막함을 잘 보여주는 공간이라 생각했기 때문입니다.
+            우리는 이런 공간에 사랑과 사람과의 연결을 시사하는 작은 스마트팜을 설치하여
+            이런 사회에 대한 걱정어린 시선과 저항을 보여주고자 했습니다.
+        </p>
+
+        <h2>맡은 일</h2>
+        <h3>UI/UX 디자인 보드</h3>
+        <div class="image-single">
+            <img src="DESIGN.png" alt="단일 프로젝트 이미지">
+        </div>
+        
+        <h3>플로우 차트</h3>
+        <div class="image-single">
+            <img src="FLOW.png" alt="단일 프로젝트 이미지">
+        </div>
+        
+        <h3>기획</h3>
+        <div class="image-single">
+            <img src="READ.png" alt="단일 프로젝트 이미지">
+        </div>
+
+        <div class="button-container">
+            <a href="https://github.com/haapie4576" class="button">깃허브로 돌아가기</a>
+        </div>
+
+
+
+
+        <!-- <h2>프로젝트 이미지</h2>
+        <div class="image-row">
+            <img src="https://via.placeholder.com/300x200.png?text=Project+1" alt="프로젝트 이미지 1">
+            <img src="https://via.placeholder.com/300x200.png?text=Project+2" alt="프로젝트 이미지 2">
+            <img src="https://via.placeholder.com/300x200.png?text=Project+3" alt="프로젝트 이미지 3">
+        </div>
+
+        <h2>단일 사진 예시</h2>
+        <div class="image-single">
+            <img src="https://via.placeholder.com/600x400.png?text=Single+Image+Example" alt="단일 프로젝트 이미지">
+        </div> -->
+    </section>
