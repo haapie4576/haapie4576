@@ -42,7 +42,7 @@ you can visit my work by click !
     <td>
     <strong>🎵Game Music Composition</strong><br>
       <a href="https://www.youtube.com/watch?v=0gi5-mEVEc4">
-        <img src="https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg" alt="StarDew Valley Style Game Music Composition" width="200">
+        <img src="https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg" alt="StarDew Valley Style Game Music Composition" width="230">
       </a>
     </td>
   </tr>
