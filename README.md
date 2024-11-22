@@ -9,7 +9,10 @@
 
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haapie4576.yourrepo)
+<p align="right">
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haapie4576.yourrepo)
+</p>
+
 ---
 
 #### 🚀Tech Stack
