@@ -40,17 +40,11 @@ you can visit my work by click !
       <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=0gi5-mEVEc4">
-       <img src="https://img.shields.io/badge/Stardew%20Valley%20Style%20Game%20Music%20Composition-000000?style=for-the-badge&logoColor=black&color=F6E200&labelColor=F6E200" width="200" height="50">
-      </a>
+      [![StarDew Valley Style Game Music Composition](https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg)](https://www.youtube.com/watch?v=0gi5-mEVEc4)
     </td>
   </tr>
 </table>
 
-[![스타듀밸리 스타일 게임 음악 작곡](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=0gi5-mEVEc4)
-<a href="https://www.youtube.com/watch?v=VIDEO_ID">
-  <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="스타듀밸리 스타일 게임 음악 작곡" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
 
 [![StarDew Valley Style Game Music Composition](https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg)](https://www.youtube.com/watch?v=0gi5-mEVEc4)
 
