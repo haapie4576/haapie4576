@@ -41,6 +41,7 @@ you can visit my work by click !
     </td>
     <td>
       [![StarDew Valley Style Game Music Composition](https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg)](https://www.youtube.com/watch?v=0gi5-mEVEc4)
+     [![StarDew Valley Style Game Music Composition](https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg)](https://www.youtube.com/watch?v=0gi5-mEVEc4)
     </td>
   </tr>
 </table>
