@@ -7,6 +7,13 @@
 #### 📞Let's Collaborate with me
 **Phone: +82 123 456 789**   
 
+
+# 방문자 수
+
+오늘 방문자 수: ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haapie4576.yourrepo)
+
+전체 방문자 수: ![Total Visitors](https://visitor-badge.laobi.icu/total?path=haapie4576.yourrepo)
+
    
 
 ---
