@@ -14,6 +14,24 @@
 </p>
 <hr>
 
+<table>
+  <tr>
+    <td>
+      <h3>Listen to my favorite playlist</h3>
+      <a href="https://music.apple.com/us/playlist/your-playlist-id">
+        <img src="https://link-to-image.com/playlist-image.jpg" alt="Apple Music Playlist" />
+      </a>
+    </td>
+    <td>
+      <h3>Or listen on Spotify</h3>
+      <a href="https://open.spotify.com/playlist/your-playlist-id">
+        <img src="https://link-to-image.com/spotify-image.jpg" alt="Spotify Playlist" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 #### 🚀Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
