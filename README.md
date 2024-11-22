@@ -30,7 +30,7 @@ you can visit my work by click !
 
   [<img src="https://img.shields.io/badge/flower%20%20stationtion-000000?style=for-the-badge&logo=figma&logoColor=white" width="200" height="50">](https://haapie4576.github.io/haapie4576/)
 
-<<table>
+<table>
   <tr>
     <td><strong>✨ Recent Interests</strong></td>
     <td><strong>🔥 GitHub Stats</strong></td>
