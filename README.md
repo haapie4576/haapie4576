@@ -30,24 +30,6 @@ you can visit my work by click !
 
   [<img src="https://img.shields.io/badge/flower%20%20stationtion-000000?style=for-the-badge&logo=figma&logoColor=white" width="200" height="50">](https://haapie4576.github.io/haapie4576/)
 
-
-<table>
-  <tr>
-    <td><strong>🔥 GitHub Stats</strong></td>
-    <td><strong>✨ Recent Interests</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=haapie4576&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=pink" alt="Haapie's GitHub Stats">
-    </td>
-    <td>
-      <a href="https://music.apple.com/us/playlist/your-playlist-name/id/your-playlist-id">
-        <img src="https://img.shields.io/badge/Listen%20on%20Apple%20Music-FF1D48?style=flat&logo=apple&logoColor=white" alt="Apple Music">
-      </a>
-    </td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td><strong>✨ Recent Interests</strong></td>
