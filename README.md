@@ -52,6 +52,7 @@ you can visit my work by click !
   <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="스타듀밸리 스타일 게임 음악 작곡" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
 
+[![StarDew Valley Style Game Music Composition](https://img.youtube.com/vi/0gi5-mEVEc4/hqdefault.jpg)](https://www.youtube.com/watch?v=0gi5-mEVEc4)
 
 
 
