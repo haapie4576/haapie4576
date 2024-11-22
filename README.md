@@ -6,9 +6,10 @@
 
 #### 📞Let's Collaborate with me
 **Phone: +82 123 456 789**   
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
-![Total Visitors](https://visitor-badge.laobi.icu/total?path=yourusername.yourrepo)
 
+   
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+---
 
 #### 🚀Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
