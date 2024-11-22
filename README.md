@@ -8,7 +8,7 @@
 **Phone: +82 123 456 789**   
 
    
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haapie4576.yourrepo)
+
 ---
 
 #### 🚀Tech Stack
