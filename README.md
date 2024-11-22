@@ -4,7 +4,7 @@
 - ✨ I’m interested in : UI/UX design, music composition, visual effects, front-end development
 - 🌱 I’m currently learning : Unity, music composition
 - 👯 I’m looking for help with : Digital composition and game music
-- ⚡ Fun fact: love pretty things and delicious food.
+- ⚡ Fun fact: I love pretty things and delicious.
   
 #### 📞Let's Collaborate with me
 - **Phone: +82 123 456 789**   
