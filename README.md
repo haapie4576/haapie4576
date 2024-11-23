@@ -6,15 +6,6 @@
 - 👯 I’m looking for help with : Digital composition and game music
 - ⚡ Fun fact: I love pretty and delicious.
   
-#### 📞Let's Collaborate with me
-- **Phone: +82 123 456 789**   
-
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaapie4576&count_bg=%23FFBDB1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
-</p>
-
-<hr>
-
 #### 🚀Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
