@@ -15,7 +15,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![AIVA](https://img.shields.io/badge/AIVA-000000?style=flat-square&logo=aiva&logoColor=white)
 
 #### 🌱Projects.
 You can visit my work by clicking!
